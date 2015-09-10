@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="6" errors="0" failures="0" time="0.079" timestamp="2015-09-10T17:25:46">
+		<testcase classname="myQuery" name="should be able to select elements by tag" time="0.055">
+		</testcase>
+		<testcase classname="myQuery" name="should be able to select elements by class" time="0.004">
+		</testcase>
+		<testcase classname="myQuery" name="should be able to select elements by id" time="0.005">
+		</testcase>
+		<testcase classname="myQuery" name="should be able to change all selected elements with #css" time="0.003">
+		</testcase>
+		<testcase classname="myQuery" name="should remove all selected elements with #remove" time="0.003">
+		</testcase>
+		<testcase classname="myQuery" name="should append an element to all selected elements with #append" time="0.004">
+		</testcase>
+	</testsuite>
+</testsuites>
+
